@@ -45,7 +45,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/Kaneki1416/video-stream"
+                        "🌐 Source Code", url="https://telegra.ph/BOT-REPO-03-28"
                     )
                 ],
             ]
